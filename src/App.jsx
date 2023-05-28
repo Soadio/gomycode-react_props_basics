@@ -6,10 +6,10 @@ function App() {
   return (
     <main>
       <Profile
-        fullName="Michael Peter"
-        address="Lagos, Nigeria"
-        profession="Software Engineer"
-        bio="programmer | otaku"
+        fullName="Sheriff Adio"
+        address="Ikeja-Lagos, Nigeria"
+        profession="Fullstack Developer"
+        bio="programmer | Califonia"
       >
         {profilePhoto}
       </Profile>
