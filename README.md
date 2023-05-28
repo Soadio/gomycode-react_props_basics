@@ -1,14 +1,9 @@
 # React props basics
 
-Let’s start playing around with React.
-Create a new React project.
-Add bootstrap to your project.
-Try to create a form using bootstrap.
-In case you meet any problems, take a look at these readings about React..
-Create a layout for the website.
-And Be creative! 
- Before you start with react, you should follow these steps:
-Install Node JS.
-Install Visual Studio Code.
-Create a folder and access it using the command line.
-Type “ code .” to open the folder in vscode.
+Create a project using create-react-app.
+Create a profile folder under src.
+Create a profile component under /profile.
+The profile component gets data (fullName, bio, profession) as props, and gets image as children props, and the function handleName functions as a prop that sends an alert message with the name of the profile user.
+Define the default props for Profile component. 
+Use PropsType to check props.  
+Use inline style.
